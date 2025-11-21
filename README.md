@@ -31,3 +31,12 @@ git clone https://github.com/seu-usuario/TuneSpace.git
 cd TuneSpace/frontend
 npm install
 npm start
+```
+
+
+### **BackEnd**
+```bash
+cd TuneSpace/backend
+npm install
+```
+# Configure o arquivo .env com suas credenciais do Spotify
