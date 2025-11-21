@@ -1,4 +1,3 @@
-
 # TuneSpace 🎵
 
 Aplicação web desenvolvida com **React** e **Node.js**, integrada à **API do Spotify** para gerenciamento de playlists e descoberta de músicas.
@@ -33,10 +32,28 @@ npm install
 npm start
 ```
 
-
-### **BackEnd**
+### **Backend**
 ```bash
 cd TuneSpace/backend
 npm install
-```
 # Configure o arquivo .env com suas credenciais do Spotify
+node server.js
+```
+
+---
+
+## 📌 Status do Projeto
+✅ Em desenvolvimento  
+🔜 Próximas etapas:
+- Implementar Back-End para Autenticação
+
+---
+
+## 📄 Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Autor
+Henrique Rosa  
+[LinkedIn](https://www.linkedin.com/in/henriquesrosa) | [GitHub](https://github.com/HenriqueSamuelRosa)
